@@ -1,1 +1,6 @@
 Initial experiments
+Need the following to improve loss and validation
+- Needs positional encoding
+- Multi head attention 
+- Input tokenization
+- Feature/Time-Step Embedding - linear layer
